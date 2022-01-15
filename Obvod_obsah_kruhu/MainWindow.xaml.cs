@@ -59,7 +59,6 @@ namespace KruhXaml
                 str_j_obvod = jednotka_obvod.ToString();
             }
 
-
             Vypocet_obsahu.Text = "Obsah je:" + str_obsah + str_j_obsah;
             Vypocet_obvodu.Text = "Obvod je:" + str_obvod + str_j_obvod;
         }
